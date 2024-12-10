@@ -18,5 +18,6 @@ Features of a Virtual Chat Machine:
 8. User-Friendly: Simple and easy to use.
 
 open the clone in - https://github.com/taesiy/ChatBox/edit/main/README.md
+
 Open the index.html file in your preferred web browser to view the application.
 
